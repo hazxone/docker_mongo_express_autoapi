@@ -1,4 +1,5 @@
-# docker_mongo_express_autoapi
+# DOCKER COMPOSE - Mongo, Mongo-Express, AutoAPI
+
 Run MongoDB with Admin UI using mongo express and REST API using auto API
 
 1. Install docker / compose
